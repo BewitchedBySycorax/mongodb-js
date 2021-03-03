@@ -1,0 +1,8 @@
+# Apple Desktop Services Store
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Backup files
+*_backup*
