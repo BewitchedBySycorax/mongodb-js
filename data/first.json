@@ -1,0 +1,761 @@
+[
+  {
+    "country": "Bedfordshire",
+    "city": "West Harmony",
+    "name": "Walsh, Kassulke and Cummings",
+    "location": {
+      "ll": [
+        31.341,
+        -12.46
+      ]
+    },
+    "students": [
+      {
+        "year": 2017,
+        "number": 6259
+      },
+      {
+        "year": 2016,
+        "number": 97639
+      },
+      {
+        "year": 2018,
+        "number": 43070
+      },
+      {
+        "year": 2018,
+        "number": 62263
+      }
+    ]
+  },
+  {
+    "country": "Borders",
+    "city": "North Winnifred",
+    "name": "Leffler Group",
+    "location": {
+      "ll": [
+        106.796,
+        -131.666
+      ]
+    },
+    "students": [
+      {
+        "year": 2016,
+        "number": 51422
+      },
+      {
+        "year": 2016,
+        "number": 53280
+      },
+      {
+        "year": 2018,
+        "number": 78899
+      },
+      {
+        "year": 2013,
+        "number": 19353
+      }
+    ]
+  },
+  {
+    "country": "Borders",
+    "city": "New Jordy",
+    "name": "Durgan, Kuphal and Batz",
+    "location": {
+      "ll": [
+        -113.975,
+        110.905
+      ]
+    },
+    "students": [
+      {
+        "year": 2019,
+        "number": 61305
+      },
+      {
+        "year": 2017,
+        "number": 92614
+      },
+      {
+        "year": 2018,
+        "number": 82101
+      },
+      {
+        "year": 2015,
+        "number": 79641
+      }
+    ]
+  },
+  {
+    "country": "Borders",
+    "city": "South Shyann",
+    "name": "Rau - Schinner",
+    "location": {
+      "ll": [
+        67.998,
+        70.345
+      ]
+    },
+    "students": [
+      {
+        "year": 2014,
+        "number": 17605
+      },
+      {
+        "year": 2018,
+        "number": 61810
+      },
+      {
+        "year": 2019,
+        "number": 89159
+      },
+      {
+        "year": 2017,
+        "number": 93712
+      }
+    ]
+  },
+  {
+    "country": "Bedfordshire",
+    "city": "Davonteview",
+    "name": "Green, Blanda and West",
+    "location": {
+      "ll": [
+        70.985,
+        99.408
+      ]
+    },
+    "students": [
+      {
+        "year": 2013,
+        "number": 47573
+      },
+      {
+        "year": 2012,
+        "number": 95349
+      },
+      {
+        "year": 2020,
+        "number": 65809
+      },
+      {
+        "year": 2015,
+        "number": 14996
+      }
+    ]
+  },
+  {
+    "country": "Bedfordshire",
+    "city": "Lake Brigitteville",
+    "name": "Bechtelar, Kuvalis and Kulas",
+    "location": {
+      "ll": [
+        156.069,
+        -125.564
+      ]
+    },
+    "students": [
+      {
+        "year": 2017,
+        "number": 90062
+      },
+      {
+        "year": 2014,
+        "number": 41601
+      },
+      {
+        "year": 2015,
+        "number": 92463
+      },
+      {
+        "year": 2020,
+        "number": 95225
+      }
+    ]
+  },
+  {
+    "country": "Buckinghamshire",
+    "city": "Dominiqueburgh",
+    "name": "MacGyver Group",
+    "location": {
+      "ll": [
+        165.571,
+        -8.678
+      ]
+    },
+    "students": [
+      {
+        "year": 2018,
+        "number": 21538
+      },
+      {
+        "year": 2016,
+        "number": 41506
+      },
+      {
+        "year": 2016,
+        "number": 19086
+      },
+      {
+        "year": 2019,
+        "number": 19187
+      }
+    ]
+  },
+  {
+    "country": "Bedfordshire",
+    "city": "Torptown",
+    "name": "Prosacco - Beatty",
+    "location": {
+      "ll": [
+        -148.646,
+        142.845
+      ]
+    },
+    "students": [
+      {
+        "year": 2018,
+        "number": 13425
+      },
+      {
+        "year": 2018,
+        "number": 31032
+      },
+      {
+        "year": 2011,
+        "number": 20869
+      },
+      {
+        "year": 2020,
+        "number": 77533
+      }
+    ]
+  },
+  {
+    "country": "Berkshire",
+    "city": "East Codyfort",
+    "name": "Franecki, Kiehn and Schowalter",
+    "location": {
+      "ll": [
+        45.605,
+        142.572
+      ]
+    },
+    "students": [
+      {
+        "year": 2020,
+        "number": 78186
+      },
+      {
+        "year": 2020,
+        "number": 16534
+      },
+      {
+        "year": 2020,
+        "number": 73261
+      },
+      {
+        "year": 2019,
+        "number": 52840
+      }
+    ]
+  },
+  {
+    "country": "Avon",
+    "city": "East Margarete",
+    "name": "Boyer, Weber and Hahn",
+    "location": {
+      "ll": [
+        -177.267,
+        80.907
+      ]
+    },
+    "students": [
+      {
+        "year": 2011,
+        "number": 60991
+      },
+      {
+        "year": 2019,
+        "number": 55486
+      },
+      {
+        "year": 2016,
+        "number": 11654
+      },
+      {
+        "year": 2011,
+        "number": 4551
+      }
+    ]
+  },
+  {
+    "country": "Berkshire",
+    "city": "Port Amparo",
+    "name": "Connelly - Auer",
+    "location": {
+      "ll": [
+        30.265,
+        154.572
+      ]
+    },
+    "students": [
+      {
+        "year": 2014,
+        "number": 50584
+      },
+      {
+        "year": 2020,
+        "number": 40801
+      },
+      {
+        "year": 2017,
+        "number": 52498
+      },
+      {
+        "year": 2016,
+        "number": 24943
+      }
+    ]
+  },
+  {
+    "country": "Berkshire",
+    "city": "New Josue",
+    "name": "Wilderman, Walsh and Barton",
+    "location": {
+      "ll": [
+        -78.157,
+        66.125
+      ]
+    },
+    "students": [
+      {
+        "year": 2014,
+        "number": 5630
+      },
+      {
+        "year": 2012,
+        "number": 41437
+      },
+      {
+        "year": 2018,
+        "number": 19417
+      },
+      {
+        "year": 2015,
+        "number": 91480
+      }
+    ]
+  },
+  {
+    "country": "Borders",
+    "city": "South Aftonchester",
+    "name": "Raynor LLC",
+    "location": {
+      "ll": [
+        -36.067,
+        65.817
+      ]
+    },
+    "students": [
+      {
+        "year": 2018,
+        "number": 84256
+      },
+      {
+        "year": 2013,
+        "number": 84266
+      },
+      {
+        "year": 2018,
+        "number": 65637
+      },
+      {
+        "year": 2019,
+        "number": 39411
+      }
+    ]
+  },
+  {
+    "country": "Cambridgeshire",
+    "city": "North Lisette",
+    "name": "Osinski - O'Keefe",
+    "location": {
+      "ll": [
+        163.697,
+        110.594
+      ]
+    },
+    "students": [
+      {
+        "year": 2014,
+        "number": 15914
+      },
+      {
+        "year": 2018,
+        "number": 84440
+      },
+      {
+        "year": 2016,
+        "number": 22570
+      },
+      {
+        "year": 2020,
+        "number": 9063
+      }
+    ]
+  },
+  {
+    "country": "Cambridgeshire",
+    "city": "Leannonmouth",
+    "name": "Johnson - Kerluke",
+    "location": {
+      "ll": [
+        -130.904,
+        143.25
+      ]
+    },
+    "students": [
+      {
+        "year": 2016,
+        "number": 34762
+      },
+      {
+        "year": 2015,
+        "number": 17419
+      },
+      {
+        "year": 2020,
+        "number": 90814
+      },
+      {
+        "year": 2013,
+        "number": 96152
+      }
+    ]
+  },
+  {
+    "country": "Cambridgeshire",
+    "city": "New Albin",
+    "name": "Walter, Brown and Schowalter",
+    "location": {
+      "ll": [
+        156.626,
+        -49.962
+      ]
+    },
+    "students": [
+      {
+        "year": 2011,
+        "number": 35513
+      },
+      {
+        "year": 2012,
+        "number": 3904
+      },
+      {
+        "year": 2012,
+        "number": 57757
+      },
+      {
+        "year": 2017,
+        "number": 72616
+      }
+    ]
+  },
+  {
+    "country": "Bedfordshire",
+    "city": "Connellyview",
+    "name": "Schmidt - Swaniawski",
+    "location": {
+      "ll": [
+        92.008,
+        158.324
+      ]
+    },
+    "students": [
+      {
+        "year": 2013,
+        "number": 70489
+      },
+      {
+        "year": 2018,
+        "number": 20847
+      },
+      {
+        "year": 2013,
+        "number": 94043
+      },
+      {
+        "year": 2015,
+        "number": 56519
+      }
+    ]
+  },
+  {
+    "country": "Cambridgeshire",
+    "city": "Joanfurt",
+    "name": "Bins, O'Hara and Davis",
+    "location": {
+      "ll": [
+        -143.772,
+        -77.228
+      ]
+    },
+    "students": [
+      {
+        "year": 2017,
+        "number": 11659
+      },
+      {
+        "year": 2019,
+        "number": 73287
+      },
+      {
+        "year": 2017,
+        "number": 63481
+      },
+      {
+        "year": 2017,
+        "number": 53800
+      }
+    ]
+  },
+  {
+    "country": "Berkshire",
+    "city": "Fritschborough",
+    "name": "Pfeffer - Bosco",
+    "location": {
+      "ll": [
+        45.258,
+        -47.003
+      ]
+    },
+    "students": [
+      {
+        "year": 2012,
+        "number": 83326
+      },
+      {
+        "year": 2018,
+        "number": 79074
+      },
+      {
+        "year": 2017,
+        "number": 12298
+      },
+      {
+        "year": 2017,
+        "number": 59344
+      }
+    ]
+  },
+  {
+    "country": "Berkshire",
+    "city": "Brekkehaven",
+    "name": "Rutherford, Okuneva and Kuvalis",
+    "location": {
+      "ll": [
+        109.711,
+        97.533
+      ]
+    },
+    "students": [
+      {
+        "year": 2015,
+        "number": 28739
+      },
+      {
+        "year": 2011,
+        "number": 33023
+      },
+      {
+        "year": 2019,
+        "number": 98971
+      },
+      {
+        "year": 2019,
+        "number": 611
+      }
+    ]
+  },
+  {
+    "country": "Cambridgeshire",
+    "city": "Hicklechester",
+    "name": "Stanton - Hilll",
+    "location": {
+      "ll": [
+        118.219,
+        119.335
+      ]
+    },
+    "students": [
+      {
+        "year": 2020,
+        "number": 64299
+      },
+      {
+        "year": 2012,
+        "number": 11111
+      },
+      {
+        "year": 2019,
+        "number": 57491
+      },
+      {
+        "year": 2018,
+        "number": 1373
+      }
+    ]
+  },
+  {
+    "country": "Buckinghamshire",
+    "city": "Brittanyshire",
+    "name": "Stanton LLC",
+    "location": {
+      "ll": [
+        173.834,
+        -103.123
+      ]
+    },
+    "students": [
+      {
+        "year": 2014,
+        "number": 66787
+      },
+      {
+        "year": 2019,
+        "number": 85602
+      },
+      {
+        "year": 2018,
+        "number": 88844
+      },
+      {
+        "year": 2014,
+        "number": 22895
+      }
+    ]
+  },
+  {
+    "country": "Cambridgeshire",
+    "city": "Lindgrenshire",
+    "name": "Homenick LLC",
+    "location": {
+      "ll": [
+        -139.943,
+        -34.976
+      ]
+    },
+    "students": [
+      {
+        "year": 2016,
+        "number": 54458
+      },
+      {
+        "year": 2019,
+        "number": 41062
+      },
+      {
+        "year": 2013,
+        "number": 16707
+      },
+      {
+        "year": 2019,
+        "number": 83504
+      }
+    ]
+  },
+  {
+    "country": "Buckinghamshire",
+    "city": "West Creolastad",
+    "name": "Considine, Rodriguez and Dickens",
+    "location": {
+      "ll": [
+        -176.986,
+        3.332
+      ]
+    },
+    "students": [
+      {
+        "year": 2012,
+        "number": 18004
+      },
+      {
+        "year": 2014,
+        "number": 44851
+      },
+      {
+        "year": 2018,
+        "number": 94710
+      },
+      {
+        "year": 2013,
+        "number": 21928
+      }
+    ]
+  },
+  {
+    "country": "Berkshire",
+    "city": "Koeppbury",
+    "name": "Stokes and Sons",
+    "location": {
+      "ll": [
+        -48.347,
+        112.954
+      ]
+    },
+    "students": [
+      {
+        "year": 2013,
+        "number": 34763
+      },
+      {
+        "year": 2019,
+        "number": 86006
+      },
+      {
+        "year": 2020,
+        "number": 87155
+      },
+      {
+        "year": 2013,
+        "number": 47418
+      }
+    ]
+  },
+  {
+    "country": "Cambridgeshire",
+    "city": "Terryton",
+    "name": "Hermann - Rowe",
+    "location": {
+      "ll": [
+        34.247,
+        -115.415
+      ]
+    },
+    "students": [
+      {
+        "year": 2014,
+        "number": 21832
+      },
+      {
+        "year": 2020,
+        "number": 11318
+      },
+      {
+        "year": 2020,
+        "number": 92804
+      },
+      {
+        "year": 2017,
+        "number": 28423
+      }
+    ],
+    "seconds": [{
+      "difference": 1
+    }, {
+      "difference": 3
+    }]
+  }
+]
