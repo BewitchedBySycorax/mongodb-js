@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BewitchedBySycorax/mongodb-js.git"
+  },
+  "author": "Aleksei Voitovskii <al.voitovskii@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BewitchedBySycorax/mongodb-js/issues"
+  },
+  "homepage": "https://github.com/BewitchedBySycorax/mongodb-js#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
