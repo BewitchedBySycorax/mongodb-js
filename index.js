@@ -6,6 +6,9 @@ const client = new MongoClient(URL, { useNewUrlParser: true, useUnifiedTopology:
 
 ;(async () => {
   try {
+
+    // Этот код работает касаемо координатов, но это не средствами aggregation pipeline
+
     // const collection1WithModifiedCoordinates = (await ((await (client.connect()))
     //   .db()
     //   .aggregate([
